@@ -1,0 +1,55 @@
+Qual a funcionalidade do multímetro (o que é e para que serve)?
+
+O multímetro é um instrumento usado para medir grandezas elétricas. Ele serve principalmente para:
+
+Medir tensão elétrica (voltagem)
+
+Medir corrente elétrica
+
+Medir resistência
+
+Testar continuidade (ver se um fio está rompido)
+
+Em alguns modelos: medir capacitância, frequência e temperatura
+
+Ou seja, ele é essencial para quem trabalha com eletrônica, elétrica ou manutenção.
+
+Tipos de multímetro
+
+Existem dois principais tipos:
+
+Multímetro Analógico
+
+Possui ponteiro
+
+Mais simples e barato
+
+Menos preciso
+
+Multímetro Digital
+
+Possui visor (display)
+
+Mais preciso e fácil de usar
+
+O mais comum atualmente
+
+O que é DCV e ACV no multímetro?
+
+DCV (Direct Current Voltage)
+Mede tensão contínua
+Exemplo: pilhas, baterias
+(Símbolo: linha reta com linha pontilhada embaixo)
+
+ACV (Alternating Current Voltage)
+Mede tensão alternada
+Exemplo: tomada de casa
+(Símbolo: onda ~)
+
+Qual o símbolo de tensão no multímetro?
+
+Tensão contínua (DCV):
+Representado por V⎓ (ou V com linha reta e tracejada)
+
+Tensão alternada (ACV):
+🔸 Representado por V~
